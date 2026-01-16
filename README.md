@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer and problem-solver. H
 
 ## 🚀 About Me
 
-[Add a brief bio about yourself - your background, interests, and what you're passionate about]
+I'm Iqra Mirza, a passionate software engineer with a deep-rooted interest in computer science that started during my sixth grade. I've been fascinated by technology and programming ever since, and I'm committed to building a career in software engineering. Currently, I'm pursuing my education as a Software Engineer student at Minhaj University, where I'm expanding my technical skills and knowledge to make a meaningful impact in the tech industry.
 
 ## 💼 Skills
 
@@ -40,13 +40,17 @@ Welcome to my GitHub portfolio! I'm a passionate developer and problem-solver. H
 
 ## 🎓 Experience & Education
 
-**[Position Title]** @ [Company Name]  
-*[Start Date] - [End Date]*
-- [Key responsibility/achievement]
-- [Key responsibility/achievement]
+**Software Engineer Student**  
+*Minhaj University - Currently Pursuing*
+- Building expertise in software development and engineering principles
+- Learning modern programming languages and frameworks
+- Developing problem-solving and technical skills
 
-**[Degree]** in [Field]  
-*[University Name] - [Graduation Year]*
+**Computer Science Enthusiast**  
+*Since Grade 6*
+- Early passion for technology and programming
+- Continuous learning and skill development
+- Committed to staying in the computer science field
 
 ## 📫 Connect With Me
 
